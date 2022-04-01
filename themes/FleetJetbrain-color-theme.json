@@ -8,20 +8,12 @@
     },
     "variable.constant": {
       "foreground": "#83d6c5"
-    //   "foreground": "#f8c762"
     },
     "variable.defaultLibrary": {
       "foreground": "#efb080"
     }
   },
   "tokenColors": [
-	//   {
-	// 	  "name": "support function powershell",
-	// 	  "scope":"support.function.powershell",
-	// 	  "settings": {
-	// 		  "foreground": ""
-	// 	  }
-	//   },
     {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
@@ -1711,7 +1703,6 @@
   "colors": {
     "foreground": "#d6d6dd",
     "focusBorder": "#d6d6dd00",
-    // debug terminal
     "selection.background": "#163761",
     "scrollbar.shadow": "#d6d6dd00",
     "activityBar.foreground": "#e3e1e3",
@@ -1727,7 +1718,6 @@
     "sideBarSectionHeader.foreground": "#d6d6dd",
     "sideBarSectionHeader.border": "#d6d6dd00",
     "sideBarTitle.foreground": "#d6d6dd",
-    // sidebar border
     "sideBar.border": "#0c0c0c",
     "list.inactiveSelectionBackground": "#3c3b3c",
     "list.inactiveSelectionForeground": "#d6d6dd",
@@ -1814,7 +1804,7 @@
     "editorLink.activeForeground": "#228df2",
     "editorIndentGuide.background": "#313131",
 
-    // 缩进参考线
+
     "editorIndentGuide.activeBackground": "#737377",
     "editorRuler.foreground": "#313131",
     "editorBracketMatch.background": "#163761",
