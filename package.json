@@ -23,5 +23,10 @@
     "type": "git",
     "url": "https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme"
   },
-  "icon": ".github/icon.png"
+  "icon": ".github/icon.png",
+  "__metadata": {
+    "id": "164a680e-c8b0-4902de-9321-dfd1888bf543",
+    "publisherDisplayName": "El Parthka",
+    "publisherId": "5e0244e1-b94f-4ed44-8cdc-1397334a044f"
+  }
 }
