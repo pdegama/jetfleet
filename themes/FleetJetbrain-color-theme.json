@@ -1,5 +1,7 @@
 {
-  "name": "Fleetish",
+  "name": "Jet Fleet",
+  "author": "El Parthka",
+  "maintainers": ["El Parthka <parthka.2005@gmail.com>"],
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
